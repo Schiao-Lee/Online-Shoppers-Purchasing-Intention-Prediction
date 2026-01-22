@@ -43,3 +43,6 @@ The solution features a robust machine learning pipeline that handles **class im
     pip install -r requirements.txt
 
 3. Run the notebooks in order
+
+## Data
+https://www.kaggle.com/code/salmaashraf12/online-shoppers-intention
